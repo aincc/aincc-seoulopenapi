@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SeoulOpenAPI</string>
+    
+    <!-- 오류/정보 코드리스트 시작  -->
+    <string name="error_100_title">필수 값이 누락되어 있습니다. 필수 값을 확인하십시오!</string>
+    <string name="error_100_msg">필수 값이 누락되어 있으면 오류를 발생합니다. 요청 변수를 참고 하십시오!</string>
+    
+    <string name="error_200_title">파일타입 값이 누락 혹은 유효하지 않습니다. 파일타입 값을 확인하십시오!</string>
+    <string name="error_200_msg">파일타입 값이 누락 혹은 유효하지 않으면 오류를 발생합니다. 요청 변수를 참고 하십시오!</string>
+    
+    <string name="error_300_title">조회건수 값이 누락되어 있습니다. 조회건수 값을 확인하십시오!</string>
+    <string name="error_300_msg">조회건수 값이 누락되어 있으면 오류를 발생합니다.</string>
+    
+    <string name="error_301_title">조회건수 값의 타입이 유효하지 않습니다. 조회건수 값을 확인하십시오!</string>
+    <string name="error_301_msg">조회건수 값의 타입이 유효하지 않으면 오류를 발생합니다. 정수를 입력하세요.</string>
+    
+    <string name="error_500_title">서버 에러</string>
+    <string name="error_500_msg">OpenAPI 호출시 서버에서 오류가 발생하였습니다.</string>
+    
+    <string name="error_600_title">DB Connection 오류입니다.</string>
+    <string name="error_600_msg">OpenAPI 호출시 서버에서 DB접속 오류가 발생했습니다.</string>
+    
+    <string name="error_601_title">SQL 오류입니다.</string>
+    <string name="error_601_msg">OpenAPI 호출시 서버에서 SQL 오류가 발생했습니다.</string>
+    
+    <string name="info_100_title">인증키가 유효하지 않습니다. 인증키를 확인하십시오!</string>
+    <string name="info_100_msg">인증키가 없는 경우, 서울시청 OPENAPI(http://data.seoul.go.kr)에서 인증키를 신청하십시오!</string>
+    
+    <string name="unknown_title">에러</string>
+    <string name="unknown_msg">원인을 알 수 없습니다. 등록된 에러유형이 아닙니다.</string>
+    
+    <string name="success_title">정상</string>
+    <string name="success_msg">정상처리되었습니다.</string>
+    <!-- 오류/정보 코드리스트 끝  -->
+</resources>
