@@ -1,9 +1,9 @@
 package com.aincc.seoulopenapi.network;
 
-import com.aincc.lib.network.common.BaseParam;
-import com.aincc.lib.network.http.HttpTask;
-import com.aincc.lib.network.http.HttpTrans;
-import com.aincc.lib.util.Logger;
+import com.aincc.network.common.BaseParam;
+import com.aincc.network.http.HttpTask;
+import com.aincc.network.http.HttpTrans;
+import com.aincc.util.Logger;
 
 /**
  * 

@@ -1,6 +1,6 @@
 package com.aincc.seoulopenapi;
 
-import com.aincc.lib.util.Utils;
+import com.aincc.util.Utils;
 
 /**
  * 

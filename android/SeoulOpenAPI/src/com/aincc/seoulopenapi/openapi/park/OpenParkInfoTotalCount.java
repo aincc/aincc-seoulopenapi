@@ -5,11 +5,11 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.Map.Entry;
 
-import com.aincc.lib.parse.json.JSonManager;
-import com.aincc.lib.util.Logger;
+import com.aincc.parse.json.JSonManager;
 import com.aincc.seoulopenapi.OpenAPI;
 import com.aincc.seoulopenapi.model.TotalCount;
 import com.aincc.seoulopenapi.network.OpenBase;
+import com.aincc.util.Logger;
 import com.fasterxml.jackson.databind.JsonNode;
 
 /**

@@ -1,10 +1,10 @@
 package com.aincc.seoulopenapi.network;
 
-import com.aincc.lib.network.common.IPacket;
-import com.aincc.lib.network.http.HttpTrans;
-import com.aincc.lib.util.Logger;
+import com.aincc.network.common.IPacket;
+import com.aincc.network.http.HttpTrans;
 import com.aincc.seoulopenapi.ErrorInfoType;
 import com.aincc.seoulopenapi.OpenAPICons;
+import com.aincc.util.Logger;
 
 /**
  * 

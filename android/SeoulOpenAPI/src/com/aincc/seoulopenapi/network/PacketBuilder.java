@@ -1,6 +1,6 @@
 package com.aincc.seoulopenapi.network;
 
-import com.aincc.lib.network.common.IPacket;
+import com.aincc.network.common.IPacket;
 
 /**
  * 

@@ -5,8 +5,8 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.Map.Entry;
 
-import com.aincc.lib.network.common.IPacket;
-import com.aincc.lib.parse.json.JSonManager;
+import com.aincc.network.common.IPacket;
+import com.aincc.parse.json.JSonManager;
 import com.aincc.seoulopenapi.OpenAPI;
 import com.aincc.seoulopenapi.model.PublicLandPrice;
 import com.aincc.seoulopenapi.network.OpenBase;
